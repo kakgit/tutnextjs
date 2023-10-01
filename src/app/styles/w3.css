@@ -428,6 +428,7 @@ a {
   position: fixed !important;
   z-index: 1;
   overflow: auto;
+  /*margin-top: 15px;*/
 }
 .w3-bar-block .w3-dropdown-hover,
 .w3-bar-block .w3-dropdown-click {

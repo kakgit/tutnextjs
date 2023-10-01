@@ -1,16 +1,14 @@
 import React from "react";
-import HeroSection from "./components/HeroSection";
 
-const Page = () => {
+const Movie = () => {
   return (
     <>
   {/* !PAGE CONTENT! */}
   <div className="w3-main" style={{ marginLeft: 300, marginTop: 43 }}>
-    <HeroSection /> 
+    Test page from contact Page
   </div>
-</>
-
+    </>
   );
 };
 
-export default Page;
+export default Movie;
